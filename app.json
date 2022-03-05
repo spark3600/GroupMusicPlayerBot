@@ -11,7 +11,7 @@
     },
     "BOT_TOKEN": {
       "description": "A bot token from @BotFather",
-      "required": true
+      "required": false
     },
     "BOT_NAME": {
       "description": "Your MusicPlayer Bot Name.",
